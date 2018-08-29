@@ -1,3 +1,6 @@
 [submodule "sub"]
 	path = sub
 	url = https://github.com/androikang/sub.git
+[submodule "sub2"]
+	path = sub2
+	url = https://github.com/androikang/sub2.git
